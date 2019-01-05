@@ -3,6 +3,7 @@
 <a name="intro"></a>
 # ORDER WORDS
 based on the philosophy of Rhizome / nietsche
+Research a list of order words.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
